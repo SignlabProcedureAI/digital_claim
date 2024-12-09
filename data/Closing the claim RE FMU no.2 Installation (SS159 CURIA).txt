@@ -1,0 +1,540 @@
+보낸 사람:	Uri(고우리)_Techcross AS <gowoori@techcross.com>
+보낸 날짜:	2024년 1월 11일 목요일 16:10
+받는 사람:	Reederei Zurich AG - Technical
+참조:	'신은주(AS관리팀/대리)'; '조연지(AS관리팀/주임)'; '이정은(AS관리팀/주임)'
+제목:	[Closing the claim] RE: FMU no.2 Installation (SS159, CURIA)
+
+Dear Mr. Starosvit,
+ 
+Good day.
+ 
+Thank you for the support. 
+With your full support, we could close this case.
+ 
+Once you have new issue, anytime contact us again.
+ 
+
+Best regards,
+
+
+
+ 
+
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water) 
+               to parts-sales@techcross.com.
+ 
+
+Uri Ko (Ms.) 고우리
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team
+  
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758 
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330 
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com 
+  
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately.
+ 
+
+
+
+
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Tue, 9 Jan 2024 17:12:11 +0900 (GMT)  
+subject: RE: FMU no.2 Installation (SS159, CURIA) - 5th troubleshooting
+
+Dear Uri, good day, 
+  
+The following was received from the vessel: 
+  
+++++ 
+  
+Thank you for your email below. 
+  
+We are glad to inform you that the local display of FMU “Simulator 55XC4000” disappeared after 
+following the attached procedures from Techcross. 
+  
+Please see attached photos for your reference. 
+  
+++++ 
+  
+Please, proceed to closes the case. Assistance of Techrcross is well 
+appreciated. 
+  
+Kind regards 
+  
+Sergey Starosvit 
+  
+ 
+  
+Reederei Zurich AG 
+Raemistrasse 6 
+8001 Zurich / Switzerland 
++41 44 257 10 40 Switchboard  
++41 44 257 10 49 Direct 
++41 79 772 69 08 Mobile 
+Email: technical@rz-ag.com  
+Internet: www.rz-ag.com 
+  
+  
+From: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Sent: 09 January 2024 03:47  
+To: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+Cc: '신은주(AS관리팀/대리)' <sophies@techcross.com>; '조연지(AS관리팀/주임)' 
+<joycho@techcross.com>; '이정은(AS관리팀/주임)' <jelee@techcross.com>  
+Subject: RE: FMU no.2 Installation (SS159, CURIA) - 5th troubleshooting 
+  
+Dear Sir, 
+  
+Good day. 
+  
+Again, please try to follow our instruction to remove the message from local FMU display. 
+  
+1. Access for setting : Device Setup → Sensor → Sensor Location TAG 
+2. Please fill in all the letters with a blank 
+Guidance is attached, please try to apply above method and let us know if the message 
+disappears. 
+  
+Thank you. 
+  
+Best regards, 
+  
+  
+
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water)  
+               to parts-sales@techcross.com. 
+
+Uri Ko (Ms.) 고우리 
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team 
+   
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758  
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330  
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com  
+  
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately. 
+ 
+  
+  
+  
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Thu, 4 Jan 2024 15:24:02 +0900 (GMT)  
+subject: RE: FMU no.2 Installation (SS159, CURIA) - 4th troubleshooting 
+  
+Dear Uri, good afternoon, 
+  
+Thank you for your email. The following feedback was received from the 
+vessel: 
+  
+++++ 
+  
+Good day Sir. 
+Thank you for your email below and well noted the message from Techross. 
+After following the procedures below, the “Simulate 55XC4000” message on the FMU local display was 
+still there. 
+Please see attached photos and video during the adjustments. 
+++++ 
+  
+Appreciate yours. 
+  
+  
+Kind regards 
+  
+Sergey 
+  
+Reederei Zurich AG 
+Raemistrasse 6 
+8001 Zurich / Switzerland 
++41 44 257 10 40 Switchboard  
+Email: technical@rz-ag.com  
+Internet: www.rz-ag.com 
+  
+From: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Sent: 03 January 2024 00:29  
+To: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+Cc: '신은주(AS관리팀/대리)' <sophies@techcross.com>; '조연지(AS관리팀/주임)' 
+<joycho@techcross.com>; '이정은(AS관리팀/주임)' <jelee@techcross.com>  
+Subject: RE: FMU no.2 Installation (SS159, CURIA) - 4th troubleshooting 
+  
+Dear Mr. Starosvit, 
+  
+Happy New Year! 
+  
+With your 3rd feedback, our technical team provided following explanation. 
+  
+Please go to FMU and then access like following sequence. Then, off the simulator mode. 
+Device info → Transmitter → Simulator → OFF 
+?  When you access “Simulator” menu, please take a photo. 
+  
+From the last setting procedure, access “Device info”, not “Diagnostics”. 
+  
+Thank you. 
+  
+Best regards, 
+  
+  
+  
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water)  
+               to parts-sales@techcross.com. 
+  
+Uri Ko (Ms.) 고우리  
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team  
+    
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758   
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330   
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com  
+   
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately.  
+ 
+  
+  
+  
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Thu, 28 Dec 2023 16:44:37 +0900 (GMT)  
+subject: RE: Re:RE: FMU no.2 Installation (SS159, CURIA) - 3rd troubleshooting 
+  
+Dear Uri, 
+  
+Thank you for your email. The following was received from the vessel: 
+  
+++++ 
+  
+Well noted email below from Techcross with thanks. 
+  
+We successfully downloaded the video instruction with the given weblink below. 
+After following the instructions, we can confirm that the FMU 2 flow rate is now stable. 
+However, the “Simulate 55XC4000” message on the FMU local display was still there. 
+  
+Please see attached photos and video for your references. 
+  
+++++ 
+  
+Appreciate yours. 
+  
+Kind regards 
+  
+Sergey Starosvit 
+  
+ 
+  
+Reederei Zurich AG 
+Raemistrasse 6 
+8001 Zurich / Switzerland 
++41 44 257 10 40 Switchboard  
++41 44 257 10 49 Direct 
++41 79 772 69 08 Mobile 
+Email: technical@rz-ag.com  
+Internet: www.rz-ag.com 
+  
+  
+From: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Sent: 27 December 2023 07:54  
+To: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+Cc: '신은주(AS관리팀/대리)' <sophies@techcross.com>; '조연지(AS관리팀/주임)' 
+<joycho@techcross.com>; '이정은(AS관리팀/주임)' <jelee@techcross.com>  
+Subject: Re:RE: FMU no.2 Installation (SS159, CURIA) - 3rd troubleshooting 
+  
+Dear Sir, 
+ 
+Sorry for delayed reply. 
+Please find our 3rd troubleshooting. 
+  
+1. From the latest feedback report, we found that “Simulate 55XC4000” message on the FMU 
+local display. This message should have not been appeared. 
+  
+2. For the next steps, refer to the several video guidance. 
+  1) Refer to the attached guide, turn off the “simulation mode”. 
+    # Guidance : WaterMaster Turning Simulation Mode On Off.mp4.mp4 
+  2) Refer to 3 setting guidance, check every setting and status of flowrate fluctuating. 
+    # Guidance : LTS_FMU_CUT OFF.mp4 / LTS_FMU_Damping_setting.mp4 / 
+LTS_FMU_EMPTY PIPE.mp4 
+  
+We shall be waiting for your next feedback. 
+* Due to the large-sized files, the download links are located at the bottom of messages. 
+  
+Thank you. 
+  
+Best regards, 
+  
+  
+  
+  
+  
+  
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water)  
+               to parts-sales@techcross.com. 
+  
+Uri Ko (Ms.) 고우리  
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team   
+     
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758    
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330    
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com  
+    
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately.   
+ 
+  
+  
+  
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Tue, 19 Dec 2023 16:42:54 +0900 (GMT)  
+subject: RE: FMU no.2 Installation (SS159, CURIA) 
+  
+Dear Uri, 
+  
+Thank you for your email. Attached please, find the feedback we received from 
+the vessel. 
+  
+Kind regards 
+  
+Sergey Starosvit 
+  
+ 
+  
+Reederei Zurich AG 
+Raemistrasse 6 
+8001 Zurich / Switzerland 
++41 44 257 10 40 Switchboard  
++41 44 257 10 49 Direct 
++41 79 772 69 08 Mobile 
+Email: technical@rz-ag.com  
+Internet: www.rz-ag.com 
+  
+  
+From: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Sent: 18 December 2023 02:54  
+To: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+Cc: '신은주(AS관리팀/대리)' <sophies@techcross.com>; '조연지(AS관리팀/주임)' 
+<joycho@techcross.com>; '이정은(AS관리팀/주임)' <jelee@techcross.com>  
+Subject: FW: FMU no.2 Installation (SS159, CURIA) 
+  
+  
+Dear Sergey, 
+  
+Good day. 
+  
+1. First, please confirm if HMI shows flowrate of No.2 FMU on its display while ballast pump is 
+running. 
+2. If HMI cannot show the flowrate, please refer to the attached video guidance and set the 
+direction of flow of sensor. 
+3. Also, during above trial, please take a photo showing flowrate display on HMI. 
+  
+Thank you. 
+  
+Best regards, 
+  
+  
+  
+  
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water)  
+               to parts-sales@techcross.com. 
+  
+Uri Ko (Ms.) 고우리  
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team   
+     
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758    
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330    
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com  
+    
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately.   
+ 
+  
+  
+  
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Thu, 14 Dec 2023 20:36:19 +0900 (GMT)  
+subject: RE: Re:FW: FMU no.2 Installation (SS159, CURIA) 
+  
+Dear Uri, 
+  
+Thank you for your email. The following feedback was received from the 
+vessel: 
+  
+++++ 
+  
+Well received your below email and attached instructions from Techcross. 
+  
+After following the attached step by step procedures nothing has change on the display of  FMU. 
+  
+However, we can confirm that during ballasting operation FMU No.2 displays on HMI screen. 
+  
+Attached photo of FMU after the adjustment for your reference. 
+  
+++++ 
+  
+Assistance, advice of Techcross is very much appreciated. 
+  
+Kind regards 
+  
+Sergey 
+  
+  
+  
+  
+  
+  
+From: Uri(고우리)_Techcross AS <gowoori@techcross.com>  
+Sent: 14 December 2023 06:32  
+To: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+Cc: '신은주(AS관리팀/대리)' <sophies@techcross.com>; '조연지(AS관리팀/주임)' 
+<joycho@techcross.com>; '이정은(AS관리팀/주임)' <jelee@techcross.com>  
+Subject: Re:FW: FMU no.2 Installation (SS159, CURIA) 
+  
+Dear Mr. Starosvit, 
+  
+Good day. 
+  
+  
+This is our first troubleshooting on No.2 FMU. 
+  
+1. Please refer to the attached setting guide, please do a needful setting. 
+  (For detailed information, please find nameplate on the FMU Head) 
+  
+2. On the other hand, Q-max value must be set to 900 m3/h. 
+  
+3. After setting all needful factor, please run ECS and check if No.2 FMU also HMI displays. 
+  
+Thank you. 
+Best regards, 
+  
+  
+  
+  
+  
+* Notice : Please send requisition for consumables(spare parts, CLX reagent, Sodium Thiosulfate, Citric Acid and 
+Purified Water)  
+               to parts-sales@techcross.com. 
+  
+Uri Ko (Ms.) 고우리  
+Manager｜Quality Management Div. Customer Satisfaction Dept. AS Team   
+     
+433 Noksansaneopbuk-ro, Gangseo-gu, Busan, Korea, 46758    
+Tel. +82 51 601 4500 ｜ Fax. +82 51 974 0778 ｜ Dir. +82 51 601 4809 ｜ Mob. +82 10 5057 7330    
+Mail. gowoori@techcross.com  ｜ Web. www.techcross.com  
+    
+IMPORTANT: The above mail is intended only for designated recipients and may contain trade secrets, confidential 
+information, etc., which are subject to protection in accordance with relevant laws and regulations, including the 
+Unfair Competition Prevention and Trade Secret Protection Act. Unauthorized disclosure, distribution, copying, or 
+use of all or part of the information contained herein to third parties is strictly prohibited. If this email is sent 
+incorrectly, please notify the sender or us and delete it immediately.   
+ 
+  
+  
+  
+----- Original Message -----  
+From: Reederei Zurich AG - Technical <technical@rz-ag.com>  
+To: 'Uri(고우리)_Techcross AS'    <gowoori@techcross.com>  
+Cc: '신은주(AS관리팀/대리)'    <sophies@techcross.com>,    '조연지(AS관리팀/주
+임)'    <joycho@techcross.com>,    '이정은(AS관리팀/주임)'    <jelee@techcross.com>  
+Date: Wed, 13 Dec 2023 10:33:46 +0900 (GMT)  
+subject: FW: FMU no.2 Installation 
+  
+Dear Uri, 
+  
+Please, find below another message with attachment we received from the MV 
+CURIA. 
+  
+Assistance, advice of Techcross is very much appreciated. 
+  
+  
+Kind regards 
+  
+Sergey Starosvit 
+  
+ 
+  
+Reederei Zurich AG 
+Raemistrasse 6 
+8001 Zurich / Switzerland 
++41 44 257 10 40 Switchboard  
++41 44 257 10 49 Direct 
++41 79 772 69 08 Mobile 
+Email: technical@rz-ag.com  
+Internet: www.rz-ag.com 
+  
+  
+  
+  
+From: Master of Curia <HBLM@gtmailplus.com>  
+Sent: 12 December 2023 17:34  
+To: Reederei Zurich AG - Office <office@rz-ag.com>  
+Subject: FW: FMU no.2 Installation 
+  
+  
+To : Reederei Zurich AG  
+Ref: CUR-3277/23/1.1 
+13 December 2023 
+Dear Sergey,  
+Good day Sir. 
+Please be informed that the FMU for Ballast No.2 was already installed. 
+Kindly advise to Techross/Maker that there is a “Simulator” display on FMU Cartridge and even when 
+all valves are closed, there is a flow rate reading. 
+  
+Please see attached photos after the installation for your reference. 
+Thank you.  
+Kind regards, 
+C/E Armando M. Datinguinoo 
+Rizal H. Narciso 
+Master of MV CURIA 
+Vsat Tel: +870771360614/ +41435507341 
+FBB Tel: +870773060182 
+Fax: 870 7839 46018 
+Email: hblm@gtmailplus.com  
+Inm-C Tlx: 426905610 RZUR X 
+  
+ 
+  
+ 
+  
+ 
+대용량첨부(Mass attached)   
+다운로드 가능 기간  : 2023/12/27 ~ 2024/01/25(대용량 첨부파일을 보낸 날짜로부터 30일간, 받는이/보낸이 총 무제한 다운
+가능)   
+(The attatchment can be downloaded from 27/12/2023 to 25/01/2024)   
+*         SS159 CURIA - FMU no.2 Installation_3rd guidance.zip 15.29 MB 저장(save) 
+ 
+  
+ 
+  
